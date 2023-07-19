@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+What else could we say?

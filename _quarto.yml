@@ -13,9 +13,8 @@ website:
 
 format:
   html:
-    theme: default
+    theme: cosmos
     css: styles.css
-    toc: true
 
 
 

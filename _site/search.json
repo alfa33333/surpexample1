@@ -2,15 +2,57 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "surpexample1",
+    "title": "Mr Shadow",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Comfy blanket\nEnjoy the warmy blanket, thank you for visiting.\n\n\n\nEducation\nWarmy blankets during winter\n\n\n\nGain more experience!\nCreating quarto websites\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "What else could we say?"
+  },
+  {
+    "objectID": "index.html#this-is-another-section",
+    "href": "index.html#this-is-another-section",
+    "title": "Mr Shadow",
+    "section": "",
+    "text": "This is a Quarto website.\n\nPlotData\n\n\nSomething goes here\n\n\nSomething else\n\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#plot",
+    "href": "index.html#plot",
+    "title": "Mr Shadow",
+    "section": "Plot",
+    "text": "Plot\nSomething goes here"
+  },
+  {
+    "objectID": "index.html#data",
+    "href": "index.html#data",
+    "title": "Mr Shadow",
+    "section": "Data",
+    "text": "Data\nSomething else\n:::\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#comfy-blanket",
+    "href": "index.html#comfy-blanket",
+    "title": "Mr Shadow",
+    "section": "",
+    "text": "Enjoy the warmy blanket, thank you for visiting."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Mr Shadow",
+    "section": "Education",
+    "text": "Education\nWarmy blankets during winter\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Why do you need show a pdf of your CV? Why not create something interesting.\n\nSomething important\nWrite interesting stuff, even with icons or figures.\n\n\n\nSomething boring\nYou can always have the pdf in a link in the same site for people to download old pdf.\n\n\n\nCool stuff\nIt is a website, interactivity is possible\n\nviewof islands = Inputs.checkbox(\n  [\"Torgersen\", \"Biscoe\", \"Dream\"], \n  { value: [\"Torgersen\", \"Biscoe\"], \n    label: \"Islands:\"\n  }\n)\nislands"
   }
 ]

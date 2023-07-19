@@ -1,3 +1,36 @@
 ---
 title: "CV"
+execute: 
+  echo: false
+format:
+ html: 
+  toc: true
 ---
+
+Why do you need show a pdf of your CV? Why not create something interesting.
+
+# Something important
+
+Write interesting stuff, even with icons or figures. 
+
+---
+
+# Something boring
+
+You can always  have the pdf in a link in the same site for people to download [old pdf](CV.pdf){.external target="_blank"}.
+
+---
+
+# Cool stuff
+
+It is a website, interactivity is possible
+
+```{ojs}
+viewof islands = Inputs.checkbox(
+  ["Torgersen", "Biscoe", "Dream"], 
+  { value: ["Torgersen", "Biscoe"], 
+    label: "Islands:"
+  }
+)
+islands
+```

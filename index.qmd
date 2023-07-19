@@ -1,7 +1,26 @@
 ---
-title: "surpexample1"
+title: "Mr Shadow"
+image: img/another.png
+about: 
+ template: trestles
+ image-shape: round
+ image-width: 20em
+
 ---
 
-This is a Quarto website.
+# Comfy blanket
+
+Enjoy the warmy blanket, thank you for visiting.
+
+--- 
+
+# Education
+
+Warmy blankets during winter
+
+---
+# Gain more experience!
+
+[Creating quarto websites](https://ucsb-meds.github.io/creating-quarto-websites/)
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
