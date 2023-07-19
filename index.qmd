@@ -31,3 +31,5 @@ Warmy blankets during winter
 [Creating quarto websites](https://ucsb-meds.github.io/creating-quarto-websites/)
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# The SURP STUDENTS LOOK BORED!
