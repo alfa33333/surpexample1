@@ -5,6 +5,13 @@ about:
  template: trestles
  image-shape: round
  image-width: 20em
+ links:
+    - text: LinkedIn
+      href: https://www.linkedin.com
+    - text: Twitter
+      href: https://twitter.com
+    - text: GitHub
+      href: https://github.com
 
 ---
 
